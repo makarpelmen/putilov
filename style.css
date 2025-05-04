@@ -81,6 +81,7 @@ main{
 }
 td{
     border: 1px dashed darkgreen;
+    color: aliceblue;
 }
 td:hover{
      border: 1.2px dotted darkblue ;
@@ -90,6 +91,7 @@ td:hover{
 }
 tr{
     border: 2px dotted darkblue ;
+    
 }
 table{
     border: 3px dotted darkgrey ;
